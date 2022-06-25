@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time coding outstanding projects.
 
-Seasoned, forwarding Software Engineer with one year experience, background in  creating and executing innovative software solutions to enhance business productivity. Highly experience in all aspects of the JS like javascript, React, Nodejs, Mangoose, Html, CSS and DevSecOps.
+Seasoned, forwarding Software Engineer with one year experience, background in  creating and executing innovative software solutions to enhance business productivity. Highly experience in all aspects of the JS like javascript, React, Express, Nodejs, Mangoose, Html, CSS and DevSecOps.
 
 :mailbox: Reach me out!
 
@@ -19,7 +19,7 @@ Seasoned, forwarding Software Engineer with one year experience, background in  
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![EXPRESS Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [!JAVASCRIPT Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#) 
 
 
 #### Github Stats
