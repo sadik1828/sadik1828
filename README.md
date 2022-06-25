@@ -11,8 +11,7 @@ Seasoned, forwarding Software Engineer with one year experience, background in  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Nodejs and Mongoose.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+
 - 🤔 I’m looking for help with Full Stack Developer.
 - 📫 How to reach me: cumar1828@gmail.com.
 
@@ -25,5 +24,5 @@ Seasoned, forwarding Software Engineer with one year experience, background in  
 
 #### Github Stats
 
-![Mubarak's github stats](https://github-readme-stats.vercel.app/api?username=iamshabell&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Sidiiq github stats](https://github-readme-stats.vercel.app/api?username=sadik1828&count_private=true&theme=tokyonight&hide=contribs,prs)
 
