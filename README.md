@@ -2,9 +2,11 @@
 
 I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time coding outstanding projects.
 
+Seasoned, forwarding Software Engineer with one year experience, background in  creating and executing innovative software solutions to enhance business productivity. Highly experience in all aspects of the JS like javascript, React, Nodejs, Mangoose, Html, CSS and DevSecOps.
+
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@EngineerZadik?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/EngineerZadik) [![Linkedin Badge](https://img.shields.io/badge/-Mubarak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-mohamed-3094b0123/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cumar1828@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@EngineerZadik?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/EngineerZadik) [![Linkedin Badge](https://img.shields.io/badge/-Sidiiq-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-mohamed-3094b0123/) [![Mail Badge](https://img.shields.io/badge/-Sidiiq-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:cumar1828@gmail.com)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
